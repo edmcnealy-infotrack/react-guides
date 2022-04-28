@@ -36,7 +36,7 @@
     "webpack-dev-server": "^2.11.5"
   },
   "dependencies": {
-    "cross-fetch": "^1.1.1",
+    "cross-fetch": "^3.1.5",
     "materialize-css": "^0.100.2",
     "react-markdown": "^3.6.0",
     "react-router": "^4.3.1",
